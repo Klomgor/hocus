@@ -65,6 +65,6 @@
   "dependencies": {
     "@sinclair/typebox": "^0.25.24",
     "fs-extra": "^11.1.0",
-    "yaml": "^2.2.1"
+    "yaml": "^2.2.2"
   }
 }
